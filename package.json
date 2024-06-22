@@ -1,0 +1,32 @@
+{
+  "name": "swagb",
+  "version": "1.0.0",
+  "description": "Simple swagger schema builder",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Piotrovskyi/swagb.git"
+  },
+  "keywords": [
+    "swagger",
+    "swagger",
+    "schema",
+    "swagger",
+    "schema",
+    "builder",
+    "javascript",
+    "swagger"
+  ],
+  "author": "Yevhen Piotrovskyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Piotrovskyi/swagb/issues"
+  },
+  "homepage": "https://github.com/Piotrovskyi/swagb#readme"
+}
